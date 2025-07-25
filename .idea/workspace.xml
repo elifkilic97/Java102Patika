@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d43a2252-4266-4857-a3bf-82782bc1dd7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections-notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i/ostream-notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mapinterface-notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/LinkedHashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/LinkedListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/QueueLinkedListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/TreeSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaexpression/LambdaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaexpression/Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaexpression/MathExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapinterface/HashMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/ArrayListExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="d43a2252-4266-4857-a3bf-82782bc1dd7a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
