@@ -4,30 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d43a2252-4266-4857-a3bf-82782bc1dd7a" name="Changes" comment="" />
+    <list default="true" id="d43a2252-4266-4857-a3bf-82782bc1dd7a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections-notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i/ostream-notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mapinterface-notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/LinkedHashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/QueueLinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/TreeSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaexpression/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaexpression/Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaexpression/MathExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapinterface/HashMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/ArrayListExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "elifkilic97"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;elifkilic97&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/elifkilic97/Java102Patika.git",
-    "accountId": "3d51e06e-817a-4194-ba24-983ff828dee5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/elifkilic97/Java102Patika.git&quot;,
+    &quot;accountId&quot;: &quot;3d51e06e-817a-4194-ba24-983ff828dee5&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="30JhXiGBRBgmctECxzpcwa2ChdO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,7 +63,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ArrayListExample.executor": "Run",
+    "Application.HashMapExample.executor": "Run",
+    "Application.HashSetExample.executor": "Run",
+    "Application.LambdaExample.executor": "Run",
+    "Application.LinkedHashSetExample.executor": "Run",
+    "Application.LinkedListExample.executor": "Run",
+    "Application.MathExample.executor": "Run",
+    "Application.QueueLinkedListExample.executor": "Run",
+    "Application.TreeSetExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/JavaIntellij/Java102Patika/src/Main.java"
