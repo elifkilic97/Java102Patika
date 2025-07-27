@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d43a2252-4266-4857-a3bf-82782bc1dd7a" name="Changes" comment="" />
+    <list default="true" id="d43a2252-4266-4857-a3bf-82782bc1dd7a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/araba.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iostream-notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patika.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iostream/BufferedStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iostream/ByteArrayInputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iostream/ByteArrayOutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iostream/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iostream/CreateFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iostream/FileInputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iostream/FileOutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iostream/ObjectInputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iostream/ObjectOutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iostream/PrintStreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ostream-notes.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,21 +65,36 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.ArrayListExample.executor": "Run",
+    "Application.BufferedStreamExample.executor": "Run",
+    "Application.ByteArrayInputStreamExample.executor": "Run",
+    "Application.ByteArrayOutputStreamExample.executor": "Run",
+    "Application.CreateFileExample.executor": "Run",
+    "Application.FileInputStreamExample.executor": "Run",
+    "Application.FileOutputStreamExample.executor": "Run",
     "Application.HashMapExample.executor": "Run",
     "Application.HashSetExample.executor": "Run",
     "Application.LambdaExample.executor": "Run",
     "Application.LinkedHashSetExample.executor": "Run",
     "Application.LinkedListExample.executor": "Run",
     "Application.MathExample.executor": "Run",
+    "Application.ObjectInputStreamExample.executor": "Run",
+    "Application.ObjectOutputStreamExample.executor": "Run",
+    "Application.PrintStreamExample.executor": "Run",
     "Application.QueueLinkedListExample.executor": "Run",
     "Application.TreeSetExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/JavaIntellij/Java102Patika",
     "onboarding.tips.debug.path": "C:/JavaIntellij/Java102Patika/src/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JavaIntellij\Java102Patika" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
